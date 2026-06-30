@@ -11,5 +11,18 @@
         "created_at": "2026-06-30T06:58:13.131Z",
         "updated_at": "2026-06-30T06:58:13.131Z",
         "type": "plugin"
+    },
+    {
+        "id": "SJdnBLWibJtjq-UD6eMuXs-zmt5XL2JH",
+        "plugin": "multi-column-markdown",
+        "language": "zh-cn",
+        "version": "0.9.1",
+        "supported_versions": "0.9.1",
+        "title": "Multi-Column Markdown",
+        "description": "Multi-Column Markdown Localization & Tweaks",
+        "hash": "1d8632551d8632551d8632551d863255",
+        "created_at": "2026-06-30T06:58:23.755Z",
+        "updated_at": "2026-06-30T06:58:23.755Z",
+        "type": "plugin"
     }
 ]
