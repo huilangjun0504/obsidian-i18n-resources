@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "ySXeBjUzCeEFndFEgsTBJf5PBD2g5K0h",
+        "plugin": "metaedit",
+        "language": "zh-cn",
+        "version": "1.8.4",
+        "supported_versions": "1.8.4",
+        "title": "MetaEdit",
+        "description": "MetaEdit Localization & Tweaks",
+        "hash": "39dbb07239dbb07239dbb07239dbb072",
+        "created_at": "2026-06-30T06:58:13.131Z",
+        "updated_at": "2026-06-30T06:58:13.131Z",
+        "type": "plugin"
+    }
+]
